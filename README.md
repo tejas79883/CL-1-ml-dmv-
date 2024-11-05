@@ -34,6 +34,7 @@ A. Implementation of Support Vector Machines (SVM) for classifying images of han
 B. Implement K-Nearest Neighbours’ algorithm on Social network ad dataset. Compute
 confusion matrix, accuracy, error rate, precision and recall on the given dataset.
 Dataset link:https://www.kaggle.com/datasets/rakeshrau/social-network-ads
+
 *4 Clustering Analysis (Any one)
 A. Implement K-Means clustering on Iris.csv dataset. Determine the number of clusters
 using the elbow method.
@@ -41,6 +42,7 @@ Dataset Link: https://www.kaggle.com/datasets/uciml/iris
 B. Implement K-Mediod Algorithm on a credit card dataset. Determine the number of
 clusters using the Silhouette Method.
 Dataset link: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+
 *5 Ensemble Learning (Any one)
 A. Implement Random Forest Classifier model to predict the safety of the car.
 Dataset link: https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set
@@ -48,6 +50,7 @@ B. Use different voting mechanism and Apply AdaBoost (Adaptive Boosting), Gradie
 Tree Boosting (GBM), XGBoost classification on Iris dataset and compare the
 performance of three models using different evaluation measures.
 Dataset Link: https://www.kaggle.com/datasets/uciml/iris
+
 *6 Reinforcement Learning (Any one)
 A. Implement Reinforcement Learning using an example of a maze environment that the
 agent needs to explore.
