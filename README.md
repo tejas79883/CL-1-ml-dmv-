@@ -92,7 +92,7 @@ product category distribution.
 7. Create visualizations, such as bar plots, pie charts, or box plots, to represent the sales
 data and gain insights into sales trends, customer behavior, or product performance.
 
-*8 Interacting with Web APIs
+* 8 Interacting with Web APIs
 Problem Statement: Analyzing Weather Data from OpenWeatherMap API
 Dataset: Weather data retrieved from OpenWeatherMap API
 Description: The goal is to interact with the OpenWeatherMap API to retrieve weather data
@@ -118,7 +118,7 @@ visualizations representing weather patterns across different locations.
 9. Explore and visualize relationships between weather attributes, such as temperature
 and humidity, using correlation plots or heatmaps.
 
-*9 Data Cleaning and Preparation
+* 9 Data Cleaning and Preparation
 Problem Statement: Analyzing Customer Churn in a Telecommunications Company
 Dataset: "Telecom_Customer_Churn.csv"
 Description: The dataset contains information about customers of a telecommunications
@@ -141,7 +141,7 @@ predicting customer churn.
 10. Split the dataset into training and testing sets for further analysis.
 11. Export the cleaned dataset for future analysis or modeling.
 
-*10 Data Wrangling
+* 10 Data Wrangling
 Problem Statement: Data Wrangling on Real Estate Market
 Dataset: "RealEstate_Prices.csv"
 Description: The dataset contains information about housing prices in a specific real estate
